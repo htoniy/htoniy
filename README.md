@@ -1,7 +1,7 @@
 Hi there! My name is Maksim
 =============================================================================================================================================
 
-I am beggiber ib Data Science and Data analitics
+I am the begginer in Data Science and Data analitics
 -------------------------------
 
 * 🌍  I'm based in Egypt / Moldova
