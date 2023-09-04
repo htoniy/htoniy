@@ -9,6 +9,8 @@
 <p align="center">
  <img width="600" src="github-snake (1).svg" alt="snake"/>
 </p>
+---
+
 
 ### 💻 Пройденные курсы:
 
@@ -25,7 +27,7 @@
 | Определение жанра музыки  | 1                 | 26                    | https://www.kaggle.com/competitions/music-genre-prediction-m120ds/leaderboard |
 
 
-
+---
 
 
 ### Skills
