@@ -7,6 +7,12 @@ I am the begginer in Data Science and Data analitics
 * 🌍  I'm based in Egypt / Moldova
 * ✉️  You can contact me at [tg: @mjdelone](mailto:tg: @mjdelone)
 
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 ### Skills
 
 <p align="left">
