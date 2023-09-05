@@ -47,6 +47,23 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
+<p align="center"> Data Science Classic ML. </p align="center">
+
+
+| **Проект** | **Описание проекта** | **Статус** |
+|------------|----------------------|------------|
+|            |                      |            |
+| [12. Защита персональных данных клиентов страховой компании](https://github.com/htoniy/Data-Science_Classic-ML/blob/main/12.%20Bank%20clients%20personal%20data%20protection/Bank%20clients%20personal%20data%20protection.ipynb) | Проект нацелен на защиту данных клиентов страховой компании «Хоть потоп». В работе разработан метод, который зашифровывает данные, чтобы по ним было сложно восстановить персональную информацию. Обоснованна корректность работы данного метода. Данные защищены и трансформированны таким образом, чтобы при преобразовании качество модели машинного обучения не ухудшилось. | Заввершено. |
+|            |                      |            |
+|            |                      |            |
+|            |                      |            |
+|            |                      |            |
+|            |                      |            |
+|            |                      |            |
+
+---
+
+
 __________________________________________________________________________________________________________________________
 
 <p align="center">
@@ -79,21 +96,7 @@ ________________________________________________________________________________
 
 ---
 
-<p align="center"> Data Science Classic ML. </p align="center">
 
-
-| **Проект** | **Описание проекта** | **Статус** |
-|------------|----------------------|------------|
-|            |                      |            |
-| [12. Защита персональных данных клиентов страховой компании](https://github.com/htoniy/Data-Science_Classic-ML/blob/main/12.%20Bank%20clients%20personal%20data%20protection/Bank%20clients%20personal%20data%20protection.ipynb) | Проект нацелен на защиту данных клиентов страховой компании «Хоть потоп». В работе разработан метод, который зашифровывает данные, чтобы по ним было сложно восстановить персональную информацию. Обоснованна корректность работы данного метода. Данные защищены и трансформированны таким образом, чтобы при преобразовании качество модели машинного обучения не ухудшилось. | Заввершено. |
-|            |                      |            |
-|            |                      |            |
-|            |                      |            |
-|            |                      |            |
-|            |                      |            |
-|            |                      |            |
-
----
 
 ### Socials
 
