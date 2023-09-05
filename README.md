@@ -79,12 +79,13 @@ ________________________________________________________________________________
 
 ---
 
-<p align="center"> Проекты Data Science. </p align="center">
+<p align="center"> Data-Science_Classic-ML. </p align="center">
 
 
 | **Проект** | **Описание проекта** | **Статус** |
 |------------|----------------------|------------|
 |            |                      |            |
+| [12. Защита персональных данных клиентовв банка]([https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/9d86c5514664c670c928edbb1eb0f857e62e4e5e/real_state_eda/real_state_eda.ipynb](https://github.com/htoniy/Data-Science_Classic-ML/tree/main/12.%20Bank%20clients%20personal%20data%20protection))           |                      |            |
 |            |                      |            |
 |            |                      |            |
 |            |                      |            |
