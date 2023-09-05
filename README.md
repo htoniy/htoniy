@@ -77,6 +77,22 @@ ________________________________________________________________________________
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyKrafty&show_icons=true&layout=compact&theme=tokyonight'/>
 </p>
 
+---
+
+<p align="center"> Проекты Data Science. </p align="center">
+
+
+| **Проект** | **Описание проекта** | **Статус** |
+|------------|----------------------|------------|
+|            |                      |            |
+|            |                      |            |
+|            |                      |            |
+|            |                      |            |
+|            |                      |            |
+|            |                      |            |
+|            |                      |            |
+
+---
 
 ### Socials
 
