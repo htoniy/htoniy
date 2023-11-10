@@ -85,6 +85,9 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
    <img src="https://img.shields.io/badge/Faiss-8A2BE2.svg?style=for-the-badge&logo=facebookgaming&logoColor=white">
+   <img src="https://img.shields.io/badge/CatBoost-E9E449.svg?style=for-the-badge&logo=Catboost">
+
+
 
   
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
