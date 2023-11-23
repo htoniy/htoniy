@@ -47,6 +47,22 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
+<p align="center"> Data Science Deep-learning. </p align="center">
+
+| Название проекта | Бизнес сфера | Навыки и инструменты | Задачи проекта | Описание проекта |
+|------------------|--------------|----------------------|----------------|------------------|
+| [01. Определение температуры на поверхности новых открытых звезд. | Исследования | <img src="https://img.shields.io/badge/PyTorch-3EB489.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/pandas-5D9B9B.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/numpy-E4717A.svg?style=flat&logoColor=white" />  <br> <img src="https://img.shields.io/badge/scikit learn-FF7514.svg?style=flat&logoColor=white" /> | Разработать нейронную сеть, котороая сможет определять температуру на поверхности звезд с точность. по метрике RMSE = 4500 Кельфвинов.|                  |
+|                  |              |                      |                |                  |
+|                  |              |                      |                |                  |
+|                  |              |                      |                |                  |
+|                  |              |                      |                |                  |
+
+
+---
+
+__________________________________________________________________________________________________________________________
+
+
 <p align="center"> Data Science Classic ML. </p align="center">
 
 | Название проекта | Бизнес сфера | Навыки и инструменты | Задачи проекта | Описание проекта |
