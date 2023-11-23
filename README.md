@@ -51,7 +51,7 @@
 
 | Название проекта | Бизнес сфера | Навыки и инструменты | Задачи проекта | Описание проекта |
 |------------------|--------------|----------------------|----------------|------------------|
-| [01. Определение температуры на поверхности новых открытых звезд. | Исследования | <img src="https://img.shields.io/badge/PyTorch-3EB489.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/pandas-5D9B9B.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/numpy-E4717A.svg?style=flat&logoColor=white" />  <br> <img src="https://img.shields.io/badge/scikit learn-FF7514.svg?style=flat&logoColor=white" /> | Разработать нейронную сеть, котороая сможет определять температуру на поверхности звезд с точность. по метрике RMSE = 4500 Кельфвинов.|                  |
+| [01. Определение температуры на поверхности новых открытых звезд. | Исследования | <img src="https://img.shields.io/badge/PyTorch-3EB489.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/pandas-5D9B9B.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/numpy-E4717A.svg?style=flat&logoColor=white" />  <br> <img src="https://img.shields.io/badge/scikit learn-FF7514.svg?style=flat&logoColor=white" /> | Разработать нейронную сеть, котороая сможет определять температуру на поверхности звезд с точностью по метрике RMSE = 4500 Кельвинов.|                  |
 |                  |              |                      |                |                  |
 |                  |              |                      |                |                  |
 |                  |              |                      |                |                  |
