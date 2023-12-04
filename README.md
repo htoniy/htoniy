@@ -71,6 +71,56 @@
 |                  |              |                      |                |                  |
 |                  |              |                      |                |                  |
 |                  |              |                      |                |                  |
+
+
+
+<p align="center"> **Data Science Deep-learning.** </p>
+
+<table>
+  <colgroup>
+    <col style="width:25%">
+    <col style="width:25%">
+    <col style="width:25%">
+    <col style="width:25%">
+  </colgroup>
+  <tr>
+    <th>Название проекта</th>
+    <th>Бизнес сфера</th>
+    <th>Навыки и инструменты</th>
+    <th>Задачи проекта</th>
+  </tr>
+  <tr>
+    <td>[01. Определение температуры на поверхности новых открытых звезд.](https://github.com/htoniy/-Data-Science.-Deep-learning/tree/main/01.%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B5%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B%20%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4)</td>
+    <td>Исследования</td>
+    <td><img src="https://img.shields.io/badge/PyTorch-3EB489.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/pandas-5D9B9B.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/numpy-E4717A.svg?style=flat&logoColor=white" />  <br> <img src="https://img.shields.io/badge/scikit learn-FF7514.svg?style=flat&logoColor=white" /></td>
+    <td>Разработать нейронную сеть, которая сможет определять температуру на поверхности звезд с точностью по метрике RMSE = 4500 Кельвинов.</td>
+  </tr>
+  <!-- Вставьте остальные строки данных -->
+</table>
+
+<p align="center"> **Data Science Classic ML.** </p>
+
+<table>
+  <colgroup>
+    <col style="width:25%">
+    <col style="width:25%">
+    <col style="width:25%">
+    <col style="width:25%">
+  </colgroup>
+  <tr>
+    <th>Название проекта</th>
+    <th>Бизнес сфера</th>
+    <th>Навыки и инструменты</th>
+    <th>Задачи проекта</th>
+  </tr>
+  <tr>
+    <td>[01. Задача матчинга для рекомендательной системы ретейла.](https://github.com/htoniy/Data-Science_Classic-ML/tree/main/01_Product%20matching)</td>
+    <td>Ретейл</td>
+    <td><img src="https://img.shields.io/badge/CatBoost-EFA94A.svg?style=flat&logoColor=white"> <br> <img src="https://img.shields.io/badge/Faiss-FF8C69.svg?style=flat&logoColor=white"> <br> <img src="https://img.shields.io/badge/pandas-5D9B9B.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/numpy-E4717A.svg?style=flat&logoColor=white" /></td>
+    <td>По набору признаков неизвестного товара определить 5 наиболее подходящих позиций из существующего товарного перечня магазина. Для оценки качества модели - использовать метрику accuracy@5. Минимальное качество: <br>  Accuracy@5 = 0.6</td>
+  </tr>
+  <!-- Вставьте остальные строки данных -->
+</table>
 __________________________________________________________________________________________________________________________
 
 <p align="center">
