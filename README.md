@@ -47,6 +47,16 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
+<p align="center"> Data Science NLP. </p>
+
+| Название проекта | Бизнес сфера | Навыки и инструменты | Задачи проекта | Описание проекта |
+|------------------|--------------|----------------------|----------------|------------------|
+| [01. классификация позитивных и негативных комментариев.]() | Исследования | <img src="https://img.shields.io/badge/PyTorch-3EB489.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/pandas-5D9B9B.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/scikit learn-FF7514.svg?style=flat&logoColor=white" /> | Разработать модель, способную классифицировать комментарии на позитивные и негативные. В распоряжении имеется набор данных с разметкой о токсичности правок. Задача заключается в построении модели с уровнем метрики качества F1 не менее 0.75.| Описание проекта... |
+|                  |              |                      |                |                  |
+|                  |              |                      |                |                  |
+|                  |              |                      |                |                  |
+
+
 <p align="center"> Data Science Deep-learning. </p>
 
 | Название проекта | Бизнес сфера | Навыки и инструменты | Задачи проекта | Описание проекта |
