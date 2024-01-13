@@ -30,7 +30,6 @@
 | [01. Music genre prediction](https://www.kaggle.com/competitions/music-genre-prediction-m120ds/leaderboard)    |Решить задачу предсказания мультиклаассовой классификации.                    | 1                 | 26                    | https://www.kaggle.com/competitions/music-genre-prediction-m120ds/leaderboard|
 | [02. Определение рыночной стоимости автомобиля.] |                           | 13 | 25 |                                                                               |
 |                           |                           |                   |                       |                                                                               |
-|                           |                           |                   |                       |                                                                               |
 
 
 <p align="center">
@@ -53,8 +52,6 @@
 |------------------|--------------|----------------------|----------------|------------------|
 | [01. классификация позитивных и негативных комментариев.](https://github.com/htoniy/DS_NLP/tree/main/01_Negative_comments_identifying) | Исследования | <img src="https://img.shields.io/badge/PyTorch-3EB489.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/pandas-5D9B9B.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/scikit learn-FF7514.svg?style=flat&logoColor=white" /> | Разработать модель, способную классифицировать комментарии на позитивные и негативные. В распоряжении имеется набор данных с разметкой о токсичности правок. Задача заключается в построении модели с уровнем метрики качества F1 не менее 0.75.| Описание проекта... |
 |                  |              |                      |                |                  |
-|                  |              |                      |                |                  |
-|                  |              |                      |                |                  |
 
 
 <p align="center"> Data Science Deep-learning. </p>
@@ -62,8 +59,6 @@
 | Название проекта | Бизнес сфера | Навыки и инструменты | Задачи проекта | Описание проекта |
 |------------------|--------------|----------------------|----------------|------------------|
 | [01. Определение температуры на поверхности новых открытых звезд.](https://github.com/htoniy/DS_Deep_learning/tree/main/01_Star_temperature_prediction) | Исследования | <img src="https://img.shields.io/badge/PyTorch-3EB489.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/pandas-5D9B9B.svg?style=flat&logoColor=white" /> <br> <img src="https://img.shields.io/badge/numpy-E4717A.svg?style=flat&logoColor=white" />  <br> <img src="https://img.shields.io/badge/scikit learn-FF7514.svg?style=flat&logoColor=white" /> | Разработать нейронную сеть, которая сможет определять температуру на поверхности звезд с точностью по метрике RMSE = 4500 Кельвинов.| Проект представляет собой нейронную сеть, которая предсказывает абсолютную температуру на поверхности новых открытых звезд с метрикой RMSE = 2783. В ходе решения разработана нейронная сеть с 4 скрытыми слоями, к ней подобраны лучшие гиперпараметры, а также добавлены улучшения в виде dropout и разбиения на batch-и. Для изучения результатов работы в выводе приведена сводная таблица, показывающая, как изменения гиперпараметров и добавление улучшений влияют на матрику. |
-|                  |              |                      |                |                  |
-|                  |              |                      |                |                  |
 |                  |              |                      |                |                  |
 
 
