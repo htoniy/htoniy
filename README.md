@@ -27,7 +27,7 @@
 
 | **Соревнование** | **Задача соревнования** | **Занятое место** | **Кол-во участников** | **Описание результата работы**                                                    |
 |:-------------------------:|:-------------------------|:-----------------:|:---------------------:|:-----------------------------------------------------------------------------:|
-| [01. Music genre prediction](https://www.kaggle.com/competitions/music-genre-prediction-m120ds/leaderboard)    |Решить задачу предсказания мультиклаассовой классификации.                    | 1                 | 26                    | https://www.kaggle.com/competitions/music-genre-prediction-m120ds/leaderboard|
+| [01. Music genre prediction](https://github.com/htoniy/DS_Classic_ML/tree/main/01_kagle_music_janre_prediction)    |Решить задачу предсказания мультиклаассовой классификации.                    | 1                 | 26                    | https://www.kaggle.com/competitions/music-genre-prediction-m120ds/leaderboard|
 | [02. Определение рыночной стоимости автомобиля.] |                           | 13 | 25 |                                                                               |
 |                           |                           |                   |                       |                                                                               |
 
